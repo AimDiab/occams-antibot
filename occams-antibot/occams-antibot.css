@@ -1,0 +1,65 @@
+.occam-container {
+    border: 1px solid gray;
+    padding: 5px;
+    background: lightgray;
+    width: 420px;
+    font-size: 1.1em;
+    font-family: Verdana;
+    height: 110px;
+}
+
+.occam-question {
+    padding-right: 15px;
+    padding-left: 12px;
+    width:250px;
+    text-align: left;
+}
+
+.occam-title {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding-bottom: 15px;
+    padding-left: 8px;
+}
+
+.occam-picture {
+    float:right;
+    position: relative;
+    padding: 4px;
+}
+
+.occam-input {
+    float: right;
+    top: -45px;
+    right: 12px;
+    position: relative;
+}
+
+.occam-input-box {
+    padding: 4px;
+    font-size: 1.05em;
+}
+
+.occam-skip {
+    font-size: 0.7em;
+}
+
+@media only screen
+and (max-width: 675px) {
+
+    .occam-container {
+        margin-top: 20px;
+        width: 370px;
+        height: 150px;
+    }
+
+    .occam-input {
+        top: -25px;
+        right: 120px;
+    }
+
+    .occam-input-box {
+        width: 50px;
+    }
+
+}
