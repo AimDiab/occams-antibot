@@ -1,7 +1,7 @@
 # Occam's Antibot
 ## The simplest anti spam bot solution
 
-Occam's Antibot is a free, open-source widget that you can easily add to any form on any website with minimal integration work, no external server dependencies and no premium or fremium nonsense. Captcha and Recaptcha are very popular solutions to safeguard forms against spam and bots, but due to their popularity, they are quite commonly bypassed. For that reason, I created Occam's Antibot, a simple solution that I hope will prove to be a bit more versatile and difficult for bad actors to engineer a one-size-fits-all solution to cracking.
+Occam's Antibot is a free, open-source widget that you can easily add to any form on any website with minimal integration work, no external server dependencies and no premium or fremium nonsense. Captcha and Recaptcha are very popular solutions to safeguard forms against spam and bots, but due to their popularity, they are quite commonly bypassed. For that reason, I created Occam's Antibot, a simple solution that I hope will prove to be a bit more versatile and difficult for bad actors to engineer a one-size-fits-all solution to cracking it.
 
 ![A screenshot image of an Occams Antibot security box](http://aimdiab.com/web-design-portfolio/occams-antibot/images/occams-antibot-screenshot-1.png)
 
