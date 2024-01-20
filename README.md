@@ -5,12 +5,22 @@ Occam's Antibot is a free, open-source widget that you can easily add to any for
 
 ![A screenshot image of an Occams Antibot security box](http://aimdiab.com/web-design-portfolio/occams-antibot/images/occams-antibot-screenshot-1.png)
 
+## Live Demo
+
+You can view an interactive live demo by following the link below:
+
+[Occam's Antibot Live Demo](http://aimdiab.com/web-design-portfolio/demos/occams-antibot-example-project/)
+
+## Overview
+
 Occam's Antibot consists of 4 simple modules of code.
 
 - The PHP/HTML form widget which displays Occam's Antibot.
 - The JS script handles client-side formatting and clicks.
 - The PHP configuration file where you define your question/picture/answer pairs.
 - The PHP back-end code that evaluates the question/answer pair.
+
+# Setup
 
 ## Step 1: Place the `occams-antibot` folder in your project source directory or equivalent.
 
